@@ -2,8 +2,12 @@
 
 version: 1.0.0
 
-###UserName : elias
-###Password : 123
+###UserName : your email id
+###Password : your password
+
+#  Admin Login 
+###UserName : admin1
+###Password : admin1
 
 ## Full Tutorial
 
